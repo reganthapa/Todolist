@@ -1,5 +1,3 @@
-// src/App.js
-
 import React from 'react';
 import ToDoList from './ToDoList';
 import './App.css';
