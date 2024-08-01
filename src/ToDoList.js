@@ -6,7 +6,7 @@ const ToDoList = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (input === '') return; // No need for trim
+    if (input === '') return; 
 
     const newTodo = {
       id: Date.now(),
